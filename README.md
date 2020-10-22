@@ -59,10 +59,10 @@ To train a semantic parser, you can modify the dataset split in the config file.
 All the data files must follow the [CoNLL-U format](https://universaldependencies.org/format.html). 
 
 ## Other codes
-Tensorflow version of semantic dependency parser: [Second_Order_SDP](https://github.com/wangxinyu0922/Second_Order_SDP).
-Pytorch version of enhanced universal dependencies parser: [MultilangStructureKD](https://github.com/Alibaba-NLP/MultilangStructureKD).
-An application for Mean-Field Variational Inference to Sequence Labeling: [AIN](https://github.com/Alibaba-NLP/AIN).
-The PyTorch Version of Biaffine Parser: [parser](https://github.com/yzhangcs/parser).
+* Tensorflow version of semantic dependency parser: [Second_Order_SDP](https://github.com/wangxinyu0922/Second_Order_SDP).
+* Pytorch version of enhanced universal dependencies parser: [MultilangStructureKD](https://github.com/Alibaba-NLP/MultilangStructureKD).
+* An application for Mean-Field Variational Inference to Sequence Labeling: [AIN](https://github.com/Alibaba-NLP/AIN).
+* The PyTorch Version of Biaffine Parser: [parser](https://github.com/yzhangcs/parser).
 
 ## References
 
