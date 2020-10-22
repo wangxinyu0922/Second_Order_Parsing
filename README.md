@@ -30,12 +30,12 @@ For all datasets, we follow the conventional data splits:
 
 | MODEL          |  UAS  |  LAS  | Speed (Sents/s) |
 | ------------- | :---: | :---: | :-------------: |
-| CRF2O (Best) [(Zhang et al., 2020)](https://www.aclweb.org/anthology/2020.acl-main.302/)| 96.14 | 94.49 | 400 |
 | Single1O + TAG + MST     | 95.75 | 94.04 |   1123  |
 | Local1O + TAG + MST       | 95.83 | 94.23 | 1150 | 
 | Single2O + TAG + MST      | 95.86 | 94.19 | 966 |
 | Local2O + TAG + MST       | 95.98 | 94.34 | 1006 |
 | Local2O + MST (Best)      | 96.12 | 94.47 | 1006 |
+| CRF2O (Best) [(Zhang et al., 2020)](https://www.aclweb.org/anthology/2020.acl-main.302/)| 96.14 | 94.49 | 400 |
 <!-- | CHAR          | 95.99 | 94.38 |     1464.59     |
 | CHAR + Eisner | 96.02 | 94.41 |     323.73      |
 | BERT          | 96.64 | 95.11 |     438.72      |
